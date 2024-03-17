@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html {
+    scroll-behavior: smooth scroll;
+}
+body, #btn {
+    background-color: white;
+    color: black;
+}
+
+.logo{
+    width: 50px;
+    border-radius: 5%;
+}
+
+.headerImg{
+    width: 250px;
+    border-radius: 5%;
+}
+
+#forms {
+    background-color: rgb(61, 61, 61);
+    color: rgb(255, 255, 255);
+}
+#btn{
+    border-color: rgb(196, 11, 11);
+}
